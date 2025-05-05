@@ -8,3 +8,8 @@ A clean, object-oriented approach to building a music player using pure JavaScri
 - ⏯️ Full-featured controls: Play, Pause, Next, Previous
 - 🔊 Volume control + 📈 Seekable progress bar
 - ⏱️ Time display (current / total duration)
+
+🔗 **Live Demo:**  
+👉 [oop-music-player.netlify.app](https://oop-music-player.netlify.app/)
+
+---
